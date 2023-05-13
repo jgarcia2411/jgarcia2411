@@ -40,7 +40,7 @@ Components:
 - Implemented RNN-LSTM network architecture.
 - Optimized hyper-parameters by implementing genetic algorithms
 
-#### Decision Trees and Random Forests to predict solar energy production
+### Decision Trees and Random Forests to predict solar energy production
 *[Project Notebook](https://jgarcia2411.github.io/Jose-Garcia-Portfolio/documents/SOLAR_FINAL.html)*
 
 <img src='/assets/solar_panels.jpg' width="700" height="350">
