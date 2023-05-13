@@ -1,5 +1,5 @@
 ## About Me
-I am a Data Professional with experience in developing software products for data processing and end-end machine learning systems. Experienced in Python programming, PyTorch and Sagemaker ML frameworks, and Natural Language Processing. 
+I am a Data Professional with experience in developing software products for data processing and end-end machine learning systems. Experienced in Python programming, AWS Cloud Services, and Natural Language Processing.
 
 - 🔭 I’m currently working on fine tunning pre-trained language models for text summarization and classification tasks.
 - 🌱 I’m currently learning playing electric guitar
